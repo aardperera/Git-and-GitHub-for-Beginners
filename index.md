@@ -2,10 +2,13 @@
 <p align="justify">This is just an introduction about Git and GitHub for those who might be interested in. 
 Whether you are an absolute beginner or experienced, you will be guided through images and clear instructions.</p>
 
-In the words of Mahatma Gandhi:
-> _**"Live as if you were to die tomorrow. Learn as if you were to live forever."**_
-
-[**About me**](https://www.linkedin.com/in/ranjana-perera/)
+## Content
+1. What is Git?
+2. Install Git
+3. Getting Started with Git
+4. Git Glossary
+5. Git Commands
+6. Platforms
 
 ## What is Git?
 
@@ -51,11 +54,12 @@ Here is a basic overview of how Git works:
 
 ## Git Glossary
 When we learn how to work using Git, We have met some new terms like 'repo', 'branch', 'clone' and 'master' etc. It's very important to know those terms and what they exactly do. Therefore, follow the below link for more information. 
+
 [Find Git Glossary here!](https://git-scm.com/docs/gitglossary)
 
 ## Git Commands
 
-### _The essential Git commands every developer must know._
+### _The Essential and Basic Git Commands every developer must know._
 
 git init                    
 
@@ -86,3 +90,8 @@ _There are so many Git commands. If you are starting out, Don't worry too much a
 You can easily follow the below link to get more help on Git Commands. 
 
 [Help on Git Commands!](https://git-scm.com/docs/git)
+
+In the words of Mahatma Gandhi:
+> _**"Live as if you were to die tomorrow. Learn as if you were to live forever."**_
+
+[**About me**](https://www.linkedin.com/in/ranjana-perera/)
