@@ -40,7 +40,7 @@ There are many ways to use Git. We can use git on **the command line** , **code 
 
 [Install Git from here!](https://git-scm.com/downloads)
 
-## GETTING STARTED WITH GIT
+## GET STARTED WITH GIT
 Here is a basic overview of how Git works:
 
 1. Create a "repository" with a git hosting tool
@@ -112,7 +112,11 @@ It is the world largest coding community. When you publish a piece of code or a 
 GitHub is a platform for project managers and developers to collaborate, track, and update their work in order to keep projects transparent and on track.Packages can be shared privately, within the team, or publicly to the open-source community.
 </p>
 
+## GET STARTED WITH GITHUB
 
+For beginners, click on to [GitHub Site](https://github.com/) and create an account.
+
+![GitHub-signup](https://github.com/aardperera/Git-and-GitHub-for-Beginners/blob/gh-pages/images/github%20account.png)
 
 
 
