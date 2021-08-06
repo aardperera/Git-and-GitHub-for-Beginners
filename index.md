@@ -39,7 +39,7 @@ There are many ways to use Git. We can use git on **the command line** , **code 
 
 ## Git Commands
 
-_The essential Git commands every developer must know._
+### _The essential Git commands every developer must know._
 
 git init                    
 
@@ -67,6 +67,6 @@ git branch --merged
 
 _There are so many Git commands. If you are starting out, Don't worry too much about memorizing these commands instead try to understand how they work._
 
-You can easily follow the below link to get more help on Git 
+You can easily follow the below link to get more help on Git Commands. 
 
 [Help on Git Commands!](https://git-scm.com/docs/git)
