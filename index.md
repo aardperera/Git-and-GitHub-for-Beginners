@@ -30,6 +30,11 @@ The Version Control System is also categorized into two parts.
 
 There are many ways to use Git. We can use git on **the command line** , **code editors & IDEs** , **graphical user interface**
 
+## Install GIT
+
+![Install Git](https://github.com/aardperera/Git-and-GitHub-for-Beginners/blob/gh-pages/images/gitinstall.png)
+
+[Install Git from here!](https://git-scm.com/downloads)
 
 ## Git Commands
 
