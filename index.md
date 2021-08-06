@@ -43,8 +43,8 @@ _The essential Git commands every developer must know._
 
 git init                    
 
-git add file.js
-git add *.js
+git add file.js<br>
+git add *.js<br>
 git add .
 
 git status
