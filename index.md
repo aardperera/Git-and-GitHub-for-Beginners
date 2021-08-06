@@ -36,5 +36,38 @@ There are many ways to use Git. We can use git on **the command line** , **code 
 
 [Install Git from here!](https://git-scm.com/downloads)
 
+
 ## Git Commands
 
+The essential Git commands every developer must know.
+
+### Initializing a repository
+git init 
+### Staging files
+git add file.js
+git add *.js
+git add .
+### Viewing the status
+git status
+### Commiting the staged files
+git commit
+### Removing files
+git rm --cached file.js
+### Viewing the unstaged changes
+git diff
+
+git log
+
+git checkout master
+
+git branch newBranch
+
+git merge newBranch
+
+git branch --merged
+
+
+
+You can easily follow the below link to get more help on Git 
+
+[Help on Git Commands!](https://git-scm.com/docs/git)
