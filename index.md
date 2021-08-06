@@ -41,8 +41,7 @@ There are many ways to use Git. We can use git on **the command line** , **code 
 
 The essential Git commands every developer must know.
 
-### Initializing a repository
-git init 
+### Initializing a repository - git init 
 ### Staging files
 git add file.js
 git add *.js
