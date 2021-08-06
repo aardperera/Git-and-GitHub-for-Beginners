@@ -1,37 +1,22 @@
 # Git & GitHub for Beginners
+<p align="justify">This is just an introduction about Git and GitHub for those who might be interested in. 
+Whether you are an absolute beginner or experienced, you will be guided through images and clear instructions.</p>
+
+In the words of Mahatma Gandhi:
+> _**"Live as if you were to die tomorrow. Learn as if you were to live forever."**_
+
+[**About me**](https://www.linkedin.com/in/ranjana-perera/)
 
 ## What is Git?
 
+![Git-image](https://github.com/aardperera/Git-and-GitHub-for-Beginners/blob/gh-pages/images/download.png)
+
+**Git** is an example of a _distributed version Control System_ which is commenly used for open source and commercial software development. 
+
+First let's see what is a **version control system** and why we need it.  <br>
+<p align="justify"> 
+It just tracks and manages all the changes and modifications to source code over time. It is a software tool that helps to software development teams to work faster and smarter with the confidence that any version can be recoverd at any time. Developers can review project history to find out which changes were made who made the changes, when were the changes made, why were changes needed. Without a version control system, for a single developer, it's already a challenge to keep track of multiple copies of a single project. Now imagine developers collaborate as teams, the situation becomes worse. Therefore, using a version control system is a best practice for high performing software development teams.
+
+</p>
 
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/aardperera/Git-and-GitHub-for-Beginners/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
