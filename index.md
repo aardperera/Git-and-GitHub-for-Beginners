@@ -10,6 +10,7 @@ Whether you are an absolute beginner or experienced, you will be guided through 
 5. Git Commands
 6. Platforms
 7. What is GitHub?
+8. Git & GitHub
 
 ## What is Git?
 
@@ -141,13 +142,8 @@ Git & GitHub are not the same thing.
 - Git is focused on version control and code sharing while GitHub is focused on centralized source code hosting.
 - Git doesn't have a GUI while GitHub provides an easy to use GUI.
 
-
-
-
-
-
-
-
+**I hope the above information would be helpful for you to understand and get an idea about Git & GitHub!**
+**Get Started and Learn more!**
 
 
 
@@ -157,5 +153,6 @@ Git & GitHub are not the same thing.
 
 In the words of Mahatma Gandhi:
 > _**"Live as if you were to die tomorrow. Learn as if you were to live forever."**_
+> -Mahatma Gandhi
 
 [**About me**](https://www.linkedin.com/in/ranjana-perera/)
