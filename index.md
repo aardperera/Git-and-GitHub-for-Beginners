@@ -9,6 +9,7 @@ Whether you are an absolute beginner or experienced, you will be guided through 
 4. Git Glossary
 5. Git Commands
 6. Platforms
+7. GitHub
 
 ## What is Git?
 
@@ -90,6 +91,44 @@ _There are so many Git commands. If you are starting out, Don't worry too much a
 You can easily follow the below link to get more help on Git Commands. 
 
 [Help on Git Commands!](https://git-scm.com/docs/git)
+
+## Platforms
+
+_**Places to host git repository**_
+
+- GitHub
+- GitLab
+- Bitbucket
+- SourceForge
+
+## GitHub
+![GitHub-image](https://github.com/aardperera/Git-and-GitHub-for-Beginners/blob/gh-pages/images/download%20(1).png)
+
+
+GitHub is a Git repository hosting 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 In the words of Mahatma Gandhi:
 > _**"Live as if you were to die tomorrow. Learn as if you were to live forever."**_
