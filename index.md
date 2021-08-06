@@ -11,7 +11,7 @@ In the words of Mahatma Gandhi:
 
 ![Git-image](https://github.com/aardperera/Git-and-GitHub-for-Beginners/blob/gh-pages/images/download.png)
 
-**Git** is an example of a _distributed version Control System_ which is commenly used for open source and commercial software development. 
+**Git** is an example of a _distributed version Control System_ which is originally created by Linus Torvalds in 2005 and commenly used for open source and commercial software development. 
 
 It is,
 - Free
@@ -36,6 +36,22 @@ There are many ways to use Git. We can use git on **the command line** , **code 
 
 [Install Git from here!](https://git-scm.com/downloads)
 
+## GETTING STARTED WITH GIT
+Here is a basic overview of how Git works:
+
+1. Create a "repository" with a git hosting tool
+2. Copy (or clone) the repository to your local machine
+3. Add a file to your local repo and "commit" (save) the changes
+4. "Push" your changes to your main branch
+5. Make a change to your file with a git hosting tool and commit
+6. "Pull" the changes to your local machine
+7. Create a "branch" (version), make a change, commit the change
+8. Open a "pull request" (propose changes to the main branch)
+9. "Merge" your branch to the main branch
+
+## Git Glossary
+When we learn how to work using Git, We have met some new terms like 'repo', 'branch', 'clone' and 'master' etc. It's very important to know those terms and what they exactly do. Therefore, follow the below link for more information. 
+[Find Git Glossary here!](https://git-scm.com/docs/gitglossary)
 
 ## Git Commands
 
