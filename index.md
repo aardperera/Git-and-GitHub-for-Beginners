@@ -41,19 +41,18 @@ There are many ways to use Git. We can use git on **the command line** , **code 
 
 _The essential Git commands every developer must know._
 
+git init                    
 
-git init                    **Initializing a repository** 
-### Staging files
 git add file.js
 git add *.js
 git add .
-### Viewing the status
+
 git status
-### Commiting the staged files
+
 git commit
-### Removing files
+
 git rm --cached file.js
-### Viewing the unstaged changes
+
 git diff
 
 git log
@@ -66,7 +65,7 @@ git merge newBranch
 
 git branch --merged
 
-
+_There are so many Git commands. If you are starting out, Don't worry too much about memorizing these commands instead try to understand how they work._
 
 You can easily follow the below link to get more help on Git 
 
