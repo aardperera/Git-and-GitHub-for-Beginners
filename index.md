@@ -12,12 +12,20 @@ In the words of Mahatma Gandhi:
 ![Git-image](https://github.com/aardperera/Git-and-GitHub-for-Beginners/blob/gh-pages/images/download.png)
 
 **Git** is an example of a _distributed version Control System_ which is commenly used for open source and commercial software development. 
+It is,
+- Free
+- Open Source
+- Super Fast
+- Scalable
 
 First let's see what is a **version control system** and why we need it.  <br>
 <p align="justify"> 
-It just tracks and manages all the changes and modifications to source code over time. It is a software tool that helps to software development teams to work faster and smarter with the confidence that any version can be recoverd at any time. Developers can review project history to find out which changes were made who made the changes, when were the changes made, why were changes needed. Without a version control system, for a single developer, it's already a challenge to keep track of multiple copies of a single project. Now imagine developers collaborate as teams, the situation becomes worse. Therefore, using a version control system is a best practice for high performing software development teams.
+It just tracks and manages all the changes and modifications to source code over time in a special database called 'Repositary'. It is a software tool that helps to software development teams to work faster and smarter with the confidence that any version can be recoverd at any time. Developers can review project history to find out which changes were made who made the changes, when were the changes made, why were changes needed. Without a version control system, for a single developer, it's already a challenge to keep track of multiple copies of a single project. Now imagine developers collaborate as teams on the same project, each developer has to email it or any other method to pass to others and then manually merge the changes.So the situation becomes worse. Therefore, using a version control system is a best practice for high performing software development teams.</p>
 
-</p>
+The Version Control System is also categorized into two parts. 
+1. Centralized - all team members connect to a central server to get the latest copy of the code and share the changes with others. But the problem is, if the server goes offline, team members cannot collaborate and have to wait until server comes back online. 
+2. Distributed - every team member has a copy of the projects on their machine. If the server is offline, they can synchronized their work directly with others.
+
 
 ## Git Commands
 
