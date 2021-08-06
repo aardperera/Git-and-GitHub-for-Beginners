@@ -12,11 +12,13 @@ In the words of Mahatma Gandhi:
 ![Git-image](https://github.com/aardperera/Git-and-GitHub-for-Beginners/blob/gh-pages/images/download.png)
 
 **Git** is an example of a _distributed version Control System_ which is commenly used for open source and commercial software development. 
+
 It is,
 - Free
 - Open Source
 - Super Fast
 - Scalable
+- Branching/Merging
 
 First let's see what is a **version control system** and why we need it.  <br>
 <p align="justify"> 
@@ -25,6 +27,8 @@ It just tracks and manages all the changes and modifications to source code over
 The Version Control System is also categorized into two parts. 
 1. Centralized - all team members connect to a central server to get the latest copy of the code and share the changes with others. But the problem is, if the server goes offline, team members cannot collaborate and have to wait until server comes back online. 
 2. Distributed - every team member has a copy of the projects on their machine. If the server is offline, they can synchronized their work directly with others.
+
+There are many ways to use Git. We can use git on **the command line** , **code editors & IDEs** , **graphical user interface**
 
 
 ## Git Commands
