@@ -9,7 +9,7 @@ Whether you are an absolute beginner or experienced, you will be guided through 
 4. Git Glossary
 5. Git Commands
 6. Platforms
-7. GitHub
+7. What is GitHub?
 
 ## What is Git?
 
@@ -101,15 +101,16 @@ _**Places to host git repository**_
 - Bitbucket
 - SourceForge
 
-## GitHub
+## What is GitHub?
 ![GitHub-image](https://github.com/aardperera/Git-and-GitHub-for-Beginners/blob/gh-pages/images/download%20(1).png)
 
 
-GitHub is a Git repository hosting 
+**GitHub** is a Git repository hosting service that provides a web-based graphical interface. 
 
-
-
-
+<p align="justify"> 
+It is the world largest coding community. When you publish a piece of code or a project on GitHub, it gets a lot of attention. Programmers may find source codes in a variety of languages and make and track modifications using Git, a command-line interface. GitHub allows everyone on a team to work on a project from anywhere while facilitating cooperation. You can also look at prior versions that were made at a different time.
+GitHub is a platform for project managers and developers to collaborate, track, and update their work in order to keep projects transparent and on track.Packages can be shared privately, within the team, or publicly to the open-source community.
+</p>
 
 
 
