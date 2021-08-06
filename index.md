@@ -118,8 +118,28 @@ For beginners, click on to [GitHub Site](https://github.com/) and create an acco
 
 ![GitHub-signup](https://github.com/aardperera/Git-and-GitHub-for-Beginners/blob/gh-pages/images/github%20account.png)
 
+Next, if you intend to use a local computer, then, in your terminal, make yourself known to Git by setting up your user name in each repository. To do that, follow this command:
 
+git config --global user.name "<your_name_here>"
 
+After that, share your email address with Git.
+
+git config --global user.email "<your_email_address>"
+
+You’re now ready to use both Git and GitHub!
+
+## Git Vs GitHub
+
+![Git-vs-GitHub](https://github.com/aardperera/Git-and-GitHub-for-Beginners/blob/gh-pages/images/git_vs_github2.jpg)
+
+Finally, let's see the differences between Git & GitHub!
+
+Git & GitHub are not the same thing.
+- Git is a software, that can be installed directly on to the system whereas GitHub is hosted on the cloud.
+- Git can be used offline and does not need an internet connection to use unless we need to access the GitHub whereas GitHub cannot be used offline and needs an internet connection.
+- Git is something independent and can be used without GitHub whereas GitHub has nothing to do unless we make repositories in Git.
+- Git is focused on version control and code sharing while GitHub is focused on centralized source code hosting.
+- Git doesn't have a GUI while GitHub provides an easy to use GUI.
 
 
 
