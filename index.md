@@ -104,7 +104,7 @@ _**Places to host git repository**_
 - SourceForge
 
 ## What is GitHub?
-![GitHub-image](images/download%20(1).png)
+![GitHub-image](images/download (1).png)
 
 
 **GitHub** is a Git repository hosting service that provides a web-based graphical interface. 
