@@ -15,7 +15,7 @@ Whether you are an absolute beginner or an experienced user, you will be guided 
 
 ## What is Git?
 
-![Git-image](https://github.com/aardperera/Git-and-GitHub-for-Beginners/blob/main/images/download.png)
+![Git-image](images/download.png)
 
 **Git** is an example of a _distributed version Control System_ which is originally created by Linus Torvalds in 2005 and commenly used for open source and commercial software development. 
 
