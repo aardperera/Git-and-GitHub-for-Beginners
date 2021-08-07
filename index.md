@@ -42,7 +42,7 @@ There are many ways to use Git. We can use git on **the command line** , **code 
 
 [Install Git from here!](https://git-scm.com/downloads)
 
-## GET STARTED WITH GIT
+## GET STARTED WITH GIT!
 Here is a basic overview of how Git works:
 
 1. Create a "repository" with a git hosting tool
