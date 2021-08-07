@@ -1,7 +1,7 @@
 # Git & GitHub for Beginners
 
 <p align="justify">This is just an introduction about Git and GitHub for those who might be interested in. 
-Whether you are an absolute beginner or experienced, you will be guided through images and clear instructions.</p>
+Whether you are an absolute beginner or an experienced user, you will be guided through images and clear instructions.</p>
 
 ## Content
 1. What is Git?
