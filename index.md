@@ -38,7 +38,7 @@ There are many ways to use Git. We can use git on **the command line** , **code 
 
 ## Install GIT
 
-![Install Git](https://github.com/aardperera/Git-and-GitHub-for-Beginners/blob/main/images/gitinstall.png)
+![Install Git](images/gitinstall.png)
 
 [Install Git from here!](https://git-scm.com/downloads)
 
@@ -104,7 +104,7 @@ _**Places to host git repository**_
 - SourceForge
 
 ## What is GitHub?
-![GitHub-image](https://github.com/aardperera/Git-and-GitHub-for-Beginners/blob/main/images/download%20(1).png)
+![GitHub-image](images/download%20(1).png)
 
 
 **GitHub** is a Git repository hosting service that provides a web-based graphical interface. 
@@ -118,7 +118,7 @@ GitHub is a platform for project managers and developers to collaborate, track, 
 
 For beginners, click on to [GitHub Site](https://github.com/) and create an account.
 
-![GitHub-signup](https://github.com/aardperera/Git-and-GitHub-for-Beginners/blob/main/images/github%20account.png)
+![GitHub-signup](images/github%20account.png)
 
 Next, if you intend to use a local computer, then, in your terminal, make yourself known to Git by setting up your user name in each repository. To do that, follow this command:
 
@@ -132,7 +132,7 @@ You’re now ready to use both Git and GitHub!
 
 ## Git Vs GitHub
 
-![Git-vs-GitHub](https://github.com/aardperera/Git-and-GitHub-for-Beginners/blob/main/images/git_vs_github2.jpg)
+![Git-vs-GitHub](images/git_vs_github2.jpg)
 
 Finally, let's see the differences between Git & GitHub!
 
