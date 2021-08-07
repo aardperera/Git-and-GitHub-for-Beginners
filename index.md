@@ -15,7 +15,7 @@ Whether you are an absolute beginner or an experienced user, you will be guided 
 
 ## What is Git?
 
-![Git-image](https://github.com/aardperera/Git-and-GitHub-for-Beginners/blob/gh-pages/images/download.png)
+![Git-image](https://github.com/aardperera/Git-and-GitHub-for-Beginners/blob/main/images/download.png)
 
 **Git** is an example of a _distributed version Control System_ which is originally created by Linus Torvalds in 2005 and commenly used for open source and commercial software development. 
 
@@ -38,7 +38,7 @@ There are many ways to use Git. We can use git on **the command line** , **code 
 
 ## Install GIT
 
-![Install Git](https://github.com/aardperera/Git-and-GitHub-for-Beginners/blob/gh-pages/images/gitinstall.png)
+![Install Git](https://github.com/aardperera/Git-and-GitHub-for-Beginners/blob/main/images/gitinstall.png)
 
 [Install Git from here!](https://git-scm.com/downloads)
 
@@ -104,7 +104,7 @@ _**Places to host git repository**_
 - SourceForge
 
 ## What is GitHub?
-![GitHub-image](https://github.com/aardperera/Git-and-GitHub-for-Beginners/blob/gh-pages/images/download%20(1).png)
+![GitHub-image](https://github.com/aardperera/Git-and-GitHub-for-Beginners/blob/main/images/download%20(1).png)
 
 
 **GitHub** is a Git repository hosting service that provides a web-based graphical interface. 
@@ -118,7 +118,7 @@ GitHub is a platform for project managers and developers to collaborate, track, 
 
 For beginners, click on to [GitHub Site](https://github.com/) and create an account.
 
-![GitHub-signup](https://github.com/aardperera/Git-and-GitHub-for-Beginners/blob/gh-pages/images/github%20account.png)
+![GitHub-signup](https://github.com/aardperera/Git-and-GitHub-for-Beginners/blob/main/images/github%20account.png)
 
 Next, if you intend to use a local computer, then, in your terminal, make yourself known to Git by setting up your user name in each repository. To do that, follow this command:
 
@@ -132,7 +132,7 @@ You’re now ready to use both Git and GitHub!
 
 ## Git Vs GitHub
 
-![Git-vs-GitHub](https://github.com/aardperera/Git-and-GitHub-for-Beginners/blob/gh-pages/images/git_vs_github2.jpg)
+![Git-vs-GitHub](https://github.com/aardperera/Git-and-GitHub-for-Beginners/blob/main/images/git_vs_github2.jpg)
 
 Finally, let's see the differences between Git & GitHub!
 
