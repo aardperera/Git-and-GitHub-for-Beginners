@@ -91,7 +91,14 @@ When we learn how to work using Git, We have met some new terms like 'repo','pus
 
 ![initialize git](images/3.png)      
 
-         
+*You just created your first local Git repo. But it is empty. So let's add some files, or create a new file using your favourite text editor. Then save or move it to the folder you just created.*
+
+- Add files
+
+> ls
+
+> git status
+
 
 git add file.js<br>
 git add *.js<br>
