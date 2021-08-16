@@ -1,6 +1,7 @@
 # Git & GitHub for Beginners!
 
 <p align="justify">This is just an introduction about Git and GitHub for those who might be interested in. 
+In this article, you will understand what Git is and how to use it on the remote repository platforms, like GitHub.
 Whether you are an absolute beginner or an experienced user, you will be guided through all images and clear instructions.</p>
 
 ## Content
@@ -40,12 +41,14 @@ There are many ways to use Git. We can use git on **the command line** , **code 
 
 ![Install Git](images/gitinstall.png)
 
-[Install Git from here!](https://git-scm.com/downloads)
+You can download Git for free and then install it.
+
+[Download Git from here!](https://git-scm.com/downloads)
 
 ## GET STARTED WITH GIT!
 Here is a basic overview of how Git works:
 
-1. Create a "repository" with a git hosting tool
+1. Create a "repository" with a git hosting tool like GitHub.
 2. Copy (or clone) the repository to your local machine
 3. Add a file to your local repo and "commit" (save) the changes
 4. "Push" your changes to your main branch
@@ -55,14 +58,35 @@ Here is a basic overview of how Git works:
 8. Open a "pull request" (propose changes to the main branch)
 9. "Merge" your branch to the main branch
 
+or there is another way too!
+
+1. If you already have a folder/directory you would like to use for Git in your local machine, Navigate to it in command line, or open it in your file explorer, right-click and select "Git Bash here"
+2. Once you have navigated to the correct folder, you can initialize Git on that folder.
+3. Then you just created your first Git Repository!
+4. Now you can work on your project.
+
+
 ## Git Glossary
-When we learn how to work using Git, We have met some new terms like 'repo', 'branch', 'clone' and 'master' etc. It's very important to know those terms and what they exactly do. Therefore, follow the below link for more information. 
+When we learn how to work using Git, We have met some new terms like 'repo','push','pull', 'branch', 'clone','merge' and 'master' etc. It's very important to know those terms and what they exactly do. Therefore, follow the below link for more information. 
 
 [Find Git Glossary here!](https://git-scm.com/docs/gitglossary)
 
 ## Git Commands
 
 ### _The Essential and Basic Git Commands every developer must know._
+- Configure Git
+
+Once Git is installed, let Git know who you are. Use global to set the username and e-mail for every repository on your computer.
+
+> git config --global user.name "username on your github account"
+
+> git config --global user.email "email used in github"
+
+*Once you set your configurations as global, No need to set it again and you can check your configurations as follows:*
+
+> git config --global --list
+
+- Creating Git Folder
 
 git init                    
 
