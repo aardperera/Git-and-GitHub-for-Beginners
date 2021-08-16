@@ -133,16 +133,21 @@ When we learn how to work using Git, We have met some new terms like 'repo','pus
 
 - Git Checkout
 
-*To move current workspace from the master branch, to the new branch.*
+*To move current workspace from the master branch, to the new branch. Then make changes.*
 
 > git checkout newFeatureBranchName
 
 ![checkout](images/10.png)
 
+- Git Merge
 
-git merge newBranch
+* After make changes, save them and merge with master branch. Before merging, Go back to the main branch.*
 
-git branch --merged
+> git checkout master
+
+> git merge newFeatureBranchName
+
+![merge](images/13.png)
 
 _There are so many Git commands. If you are starting out, Don't worry too much about memorizing these commands instead try to understand how they work._
 
