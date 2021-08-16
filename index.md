@@ -91,32 +91,54 @@ When we learn how to work using Git, We have met some new terms like 'repo','pus
 
 ![initialize git](images/3.png)      
 
-*You just created your first local Git repo. But it is empty. So let's add some files, or create a new file using your favourite text editor. Then save or move it to the folder you just created.*
-
-- Add files
-
-> ls
+*You just created your first local Git repo. But it is empty.*
 
 > git status
 
+![status](images/4.png)
 
-git add file.js<br>
-git add *.js<br>
-git add .
+*So let's add some files, or create a new file using your favourite text editor. Then save or move it to the folder you just created.*
 
-git status
+- Add new files
 
-git commit
+> ls
 
-git rm --cached file.js
+![list](images/5.png)
 
-git diff
+![status](images/6.png)
 
-git log
+> git add fileName
 
-git checkout master
+![add](images/7.png)
 
-git branch newBranch
+- Git Commit
+
+*To save changes*
+
+> git commit -m "commit message"
+
+- Git Commit Log
+
+*To view the history of commits for a repository*
+
+> git log
+
+- Git Branch
+
+*To work in a new version of the main repository.*
+
+> git branch newFeatureBranchName
+
+![branch](images/9.png)
+
+- Git Checkout
+
+*To move current workspace from the master branch, to the new branch.*
+
+> git checkout newFeatureBranchName
+
+![checkout](images/10.png)
+
 
 git merge newBranch
 
