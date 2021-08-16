@@ -141,7 +141,7 @@ When we learn how to work using Git, We have met some new terms like 'repo','pus
 
 - Git Merge
 
-*After make changes, save them and merge with master branch. Before merging, Go back to the main branch.*
+*After make changes, save them and merge feature branch with master branch. Before merging, Go back to the main branch.*
 
 > git checkout master
 
