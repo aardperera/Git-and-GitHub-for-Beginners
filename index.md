@@ -74,21 +74,24 @@ When we learn how to work using Git, We have met some new terms like 'repo','pus
 ## Git Commands
 
 ### _The Essential and Basic Git Commands every developer must know._
-- Configure Git
-
-Once Git is installed, let Git know who you are. Use global to set the username and e-mail for every repository on your computer.
-
-> git config --global user.name "username on your github account"
-
-> git config --global user.email "email used in github"
-
-*Once you set your configurations as global, No need to set it again and you can check your configurations as follows:*
-
-> git config --global --list
 
 - Creating Git Folder
 
-git init                    
+> mkdir projectName
+
+![makes a new directory](images/1.png)
+
+> cd projectName
+
+![changes the current working directory](images/2.png)
+
+- Initialize Git
+
+> git init   
+
+![initialize git](images/3.png)      
+
+         
 
 git add file.js<br>
 git add *.js<br>
@@ -144,13 +147,17 @@ For beginners, click on to [GitHub Site](https://github.com/) and create an acco
 
 ![GitHub-signup](images/github%20account.png)
 
-Next, if you intend to use a local computer, then, in your terminal, make yourself known to Git by setting up your user name in each repository. To do that, follow this command:
+- Configure Git
 
-git config --global user.name "<your_name_here>"
+Once Git is installed, let Git know who you are. Use global to set the username and e-mail for every repository on your computer.
 
-After that, share your email address with Git.
+> git config --global user.name "username on your github account"
 
-git config --global user.email "<your_email_address>"
+> git config --global user.email "email used in github"
+
+*Once you set your configurations as global, No need to set it again and you can check your configurations as follows:*
+
+> git config --global --list
 
 You’re now ready to use both Git and GitHub!
 
